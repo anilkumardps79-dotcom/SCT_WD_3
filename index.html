@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiz Game Application</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>🎯 Quiz Game</h1>
+
+    <div id="quiz-box">
+
+        <h2 id="question">Question</h2>
+
+        <div id="answer-buttons"></div>
+
+        <button id="next-btn">Next Question</button>
+
+    </div>
+
+    <div id="result-box" class="hide">
+
+        <h2>Quiz Completed 🎉</h2>
+
+        <h3 id="score"></h3>
+
+        <button onclick="restartQuiz()">Restart Quiz</button>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
