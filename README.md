@@ -15,3 +15,5 @@ Interactive Quiz Game built using HTML, CSS and JavaScript.
 - HTML5
 - CSS3
 - JavaScript
+
+##Website Link: https://anilkumardps79-dotcom.github.io/SCT_WD_3/
